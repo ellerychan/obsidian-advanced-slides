@@ -49,7 +49,7 @@ to the ```head``` section of you HTML-file.
 ### Mouse or touch
 - Click on the pen symbols at the bottom left to toggle the notes canvas or chalkboard
 - Click on the color picker at the left to change the color (the color picker is only visible if the notes canvas or chalkboard is active)
-- Click on the up/down arrows on the left to the switch among multiple chalkboardd (the up/down arrows are only available for the chlakboard)
+- Click on the up/down arrows on the left to the switch among multiple chalkboard (the up/down arrows are only available for the chalkboard)
 - Click the left mouse button and drag to write on notes canvas or chalkboard
 - Click the right mouse button and drag to wipe away previous drawings
 - Touch and move to write on notes canvas or chalkboard
